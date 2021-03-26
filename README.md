@@ -23,15 +23,19 @@ in less than 30 seconds on 95% of test cases.
 Robot localization is an important precursor to navigation as without knowing its current position,
 the robot cannot make good decisions about future actions.
 
-![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/loc_trac.gif)
-
 * Tracking
+
 Once the drone was able to localize accurately, our software was able to keep track of the drone's location
 with 100% probability, without ever losing it.
 
+![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/loc_trac.gif)
+
+
 * Navigation
+
 The final task left for our drone was to navigate itself toward a target destination. We demonstrate
-navigating the drone toward the center of the screen at (0,0). The target destination can be updated
-to make the drone follow a certain path.
+navigating the drone toward the center of the screen at (0,0). 
 
 ![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/nav.gif)
+
+The target destination can be updated to make the drone follow a specific trajectory.
