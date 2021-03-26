@@ -4,7 +4,7 @@ An autonomous drone localization and navigation software
 ![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/nav.gif)
 
 ### About the Project
-We built a framework to localize, navigate and track an autonomous drone using Particle Filters.
+We built a framework to localize, track, and navigate an autonomous drone using Particle Filters.
 
 Particle Filters are a type of Bayes Filters using a predict/update cycle to estimate the state 
 of a dynamical system from sensor measurements. Particle Filters scale more easily to higher dimensions
