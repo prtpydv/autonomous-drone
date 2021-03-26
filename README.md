@@ -39,3 +39,7 @@ navigating the drone toward the center of the screen at (0,0).
 ![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/nav.gif)
 
 The target destination can be updated to make the drone follow a specific trajectory.
+
+
+### References
+Hsiao, Kaijen & Plinval-salgues, Henry & Miller, Jason. (2005). Particle Filters and Their Applications. 
