@@ -17,13 +17,13 @@ continuously measuring and updating our estimates.
 * Python 3.8
 
 ### Demo
-* Localization
+#### Localization
 Our drone was successfully able to determine its current location with respect to the environment 
 in less than 30 seconds on 95% of test cases. 
 Robot localization is an important precursor to navigation as without knowing its current position,
 the robot cannot make good decisions about future actions.
 
-* Tracking
+#### Tracking
 
 Once the drone was able to localize accurately, our software was able to keep track of the drone's location
 with 100% probability, without ever losing it.
@@ -31,7 +31,7 @@ with 100% probability, without ever losing it.
 ![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/loc_trac.gif)
 
 
-* Navigation
+#### Navigation
 
 The final task left for our drone was to navigate itself toward a target destination. We demonstrate
 navigating the drone toward the center of the screen at (0,0). 
