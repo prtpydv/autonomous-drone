@@ -1,6 +1,7 @@
 # Autonomous Drone
 An autonomous drone localization and navigation software
 
+![] (https://github.com/prtpydv/autonomous-drone/blob/main/gif/nav.gif)
 ### About the Project
 We built a framework to localize, navigate and track an autonomous drone using Particle Filters.
 
@@ -15,3 +16,4 @@ continuously measuring and updating our estimates.
 * Python 3.8
 
 ### Usage
+![](https://github.com/prtpydv/autonomous-drone/blob/main/gif/loc_trac.gif)
